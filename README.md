@@ -4,3 +4,5 @@ Para utilizar o bot digite /info</h2>
 <br>
 
 
+
+<b>Requerimentos:<
