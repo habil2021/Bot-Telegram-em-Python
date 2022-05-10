@@ -5,4 +5,5 @@ Para utilizar o bot digite /info</h2>
 
 
 
-<b>Requerimentos:<
+<b>Requerimentos:</b>
+Obs:Leia o arquivo  Requerimentos.txt.
