@@ -1,10 +1,6 @@
-# Bot-Telegram-em-Python
-Este bot fornce informações sobre o usuário.
-Para utilizar o bot digite /info
+#Bot-Telegram-em-Python
+<h2>Este bot fornce informações sobre o usuário.
+Para utilizar o bot digite /info</h2>
+<br>
 
-Tipo de informações:
-*Nome
-*Sobrenome
-*ID
-*Linguagem
-<h1>oi</h1>
+
